@@ -1,0 +1,35 @@
+body{
+    font-family: sans-serif;
+    color: rgb(231, 24, 24);
+}
+
+header{
+text-align: center;
+}
+
+span{
+background-color: rgb(225, 9, 71);
+color: white;
+padding: 5 px;
+border: 1 px solid black;
+border-radius: 5px;
+}
+
+
+*{
+  padding: 0;
+  margin: 0;
+}<h2>Meus projetos</h2>
+  <div>
+    <h3> Projeto 1</h3>
+    <p>descrição do projeto</p>
+    <a href="#">Veja o projeto</a>
+  </div>
+  <div>
+    <h3>Projeto 2</h3>
+    <p>descrição do projeto</p>
+    <a href="#">Veja o projeto</a>
+  </div>
+p{
+  margin: 10px 0px;
+}
